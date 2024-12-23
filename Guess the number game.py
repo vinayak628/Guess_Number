@@ -1,8 +1,8 @@
 # Guess the number game
 
 import random
-number=random.randint(1,5)              #it generates random numbers within the given range
-print("Guess a number between 1-5...")
+number=random.randint(1,100)              #it generates random numbers within the given range
+print("Guess a number between 1-100...")
 attempt=0
 Q=False
 
